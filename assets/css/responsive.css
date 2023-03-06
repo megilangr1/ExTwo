@@ -7,6 +7,40 @@
   .input-cari .button-primary {
     font-size: 18px;
   }
+
+  .button-fitur {
+    width: 100%;
+  }
+
+  #contact h3 {
+    font-size: 30px;
+    width: 100%;
+    line-height: 20px;
+  }
+
+  .card-contact {
+    width: 100%;
+    height: auto;
+    padding: 52px 48px;
+    margin-top: 25px;
+  }
+
+  .card-contact h2 {
+    font-size: 20px;
+    line-height: 40px;
+    margin-bottom: 21px;
+  }
+
+  .button-primary {
+    display: block;
+    width: 100%;
+  }
+  
+  .button-secondary {
+    display: block;
+    width: 100%;
+  }
+
 }
 
 @media screen and (max-width: 576px) {
